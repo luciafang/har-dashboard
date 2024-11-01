@@ -57,4 +57,4 @@ Download and install the SensorLogger app from the App Store:
    ```
 
 ## Demo
-![demo](images/demo.png)
+![demo](images/demo.gif)
