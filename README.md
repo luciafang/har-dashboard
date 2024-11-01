@@ -33,16 +33,9 @@ Download and install the SensorLogger app from the App Store:
 1. Open the SensorLogger app on your Apple Watch.
 2. Change the settings to enable HTTP push, toggle enable the microphone and wrist motion (refer to the images below).
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; text-align: center;">
-        <p>Enable HTTP Push</p>
-        <img src="images/settings_http.PNG" alt="Enable HTTP Push" width="200"/>
-    </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>Enable Microphone and Wrist Motion</p>
-        <img src="images/logger_toggles.PNG" alt="Enable Microphone and Wrist Motion" width="200"/>
-    </div>
-</div>
+| Enable HTTP Push | Enable Microphone and Wrist Motion                               |
+|------------------|------------------------------------------------------------------|
+| ![Enable HTTP Push](images/settings_http.PNG) | ![Enable Microphone and Wrist Motion](images/logger_toggles.PNG) |
 
 ### Step 3: Set Up the Project
 
